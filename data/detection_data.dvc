@@ -1,0 +1,5 @@
+outs:
+- md5: 7f621740970acd841d8eb03eae2f81fa.dir
+  size: 84432888
+  nfiles: 216
+  path: detection_data

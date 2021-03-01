@@ -1,0 +1,5 @@
+outs:
+- md5: 6627d4893c1956153a3de503d5f87b8d.dir
+  size: 8647039
+  nfiles: 1
+  path: person_face_detection

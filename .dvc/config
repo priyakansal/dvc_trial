@@ -1,0 +1,4 @@
+['remote "models/person_face_detection"']
+    url = s3://visualcortex/dvc_trial/models/person_face_detection/
+['remote "data/detection_data"']
+    url = s3://visualcortex/dvc_trial/data/detection_data/
